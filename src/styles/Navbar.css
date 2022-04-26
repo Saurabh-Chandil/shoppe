@@ -1,0 +1,30 @@
+.navbar{ 
+    background-color: lightseagreen;
+	display: inline-block;
+    border-radius: 5px;
+    width: 97%;
+	margin: auto;
+    text-align: left;
+    height: 2.5rem;
+}
+
+.navbar li{
+    list-style: none;
+    display:inline-block;
+    margin:auto;
+    vertical-align: middle;
+}
+
+.navbar li a{
+    text-decoration: none;
+    color: gold;
+    font-size: 18px;
+    padding:8px 20px;
+}
+
+.navbar li a:active{
+    background-color: orange;
+    border-radius: 5px;
+}
+
+

@@ -1,0 +1,17 @@
+ .action-message {
+    margin-top: 5rem;
+}
+
+.add-item-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    margin-top: 0.5rem !important;
+}
+span {
+    border-radius: 5px;
+    padding: 5px 5px;
+    background-color: green;
+    color: white;
+}
